@@ -27,8 +27,9 @@ The primary goal of this analysis is to understand customer behavior and spendin
 - [Linkedin Post](https://www.linkedin.com/posts/saurabhchunekar_dataanalytics-dataanalysis-creditcards-activity-7287018905586257921-mwql?utm_source=share&utm_medium=member_desktop)
 - [Project presentation video](https://www.youtube.com/embed/DohqQnyPubw?si=28VKjzxsxX9oG-Qx)
 
-[Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
-[Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
-[Email](mailto:dataanalystsaurabh@gmail.com)
+## Profile
+- [Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
+- [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
+- [Email](mailto:dataanalystsaurabh@gmail.com)
 
 Thank you!
