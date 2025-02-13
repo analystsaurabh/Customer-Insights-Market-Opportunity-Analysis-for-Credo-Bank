@@ -9,18 +9,18 @@ Credo Bank is exploring the potential of launching a new credit card line and ne
 The primary goal of this analysis is to understand customer behavior and spending patterns, identify key market trends, and recommend tailored strategies for designing credit cards.
 
 ## 👉 Key Findings: 
-• Credit cards dominate with 40.7% of total spending (216M)
-• IT professionals lead with 51% income utilization
-• 25-34 age group drives highest spending (203.4M)
-• Mumbai leads with 27% market share
-• Middle class forms 57% of customer base
+- Credit cards dominate with 40.7% of total spending (216M)
+- IT professionals lead with 51% income utilization
+- 25-34 age group drives highest spending (203.4M)
+- Mumbai leads with 27% market share
+- Middle class forms 57% of customer base
 
 ## 👉 Strategic Recommendations:
-• Launch tech-focused cards for IT professionals (25-34 age group)
-• Prioritize Mumbai & Bengaluru for initial rollout
-• Time major promotions for Sept (peak spending month)
-• Focus on bills, groceries & electronics rewards
-• Design family-centric benefits for married professionals (78.4%)
+- Launch tech-focused cards for IT professionals (25-34 age group)
+- Prioritize Mumbai & Bengaluru for initial rollout
+- Time major promotions for Sept (peak spending month)
+- Focus on bills, groceries & electronics rewards
+- Design family-centric benefits for married professionals (78.4%)
 
 ## 👉 Important Links:
 - [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTNlNWUwZGUtNTllYy00ZTMzLThjNDgtOThjNjcwODc5ODY2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
