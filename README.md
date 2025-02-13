@@ -1,4 +1,4 @@
-# Customer-Insights-Market-Opportunity-Analysis-for-Credo-Bank
+# Customer-Insights-Market-Opportunity-Analysis
 
 🏛️ Credo Bank, based in Hyderabad, is a long-standing financial institution looking to expand its offerings with a new line of credit cards to meet evolving customer needs.
 
