@@ -30,6 +30,6 @@ The primary goal of this analysis is to understand customer behavior and spendin
 ## Contact
 - [Linkedin profile](https://www.linkedin.com/in/saurabhchunekar)
 - [Portfolio](https://codebasics.io/portfolio/Saurabh-Chunekar)
-- [Email](dataanalystsaurabh@gmail.com)
+- [Email](mailto:dataanalystsaurabh@gmail.com)
 
 Thank you!
